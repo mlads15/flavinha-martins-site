@@ -22,19 +22,19 @@
 
     <nav>
 
-        <a href="#homepage">Home</a>
-        <a href="#historia">História</a>
-        <a href="#discografia">Discografia</a>
-        <a href="#album">Álbum de Fotos</a>
-        <a href="#letras">Letra de Música</a>
-        <a href="#contato">Contato</a>
+        <a href="#homepage">HOME</a>
+        <a href="#historia">HISTÓRIA</a>
+        <a href="#discografia">DISCOGRAFIA</a>
+        <a href="#album">ÁLBUM DE FOTOS</a>
+        <a href="#letras">LETRA DE MÚSICA</a>
+        <a href="#contato">CONTATO</a>
 
     </nav>
 
     <section id="homepage">
 
-        <h2>HomePage</h2>
-        <p>Bem-vindo ao site oficial da cantora sertaneja Flavinha Martins! Aqui você encontrará todas as informações sobre sua carreira, músicas, álbuns e muito mais.</p>
+        <h2>BEM VINDO (A)!</h2>
+        <p>Este é o site oficial da cantora sertaneja Flavinha Martins. <br>Aqui você encontrará todas as informações sobre sua carreira, músicas, <br>álbuns e muito mais.</p>
 
     </section>
 
@@ -71,15 +71,16 @@ acreditarem em si mesmas e a seguirem seus sonhos, independentemente dos obstác
 
     <section id="discografia">
         <h2>Discografia</h2>
-        <p>Explore todos os álbuns e singles lançados pela cantora ao longo de sua carreira, com detalhes sobre cada lançamento. <br>Na compra de cem (100) álbuns físicos, você concorre à uma chamada de vídeo ao vivo com a Flavinha! 
-            Não perca essa chance.<br> </p>
+        <p>Explore todos os álbuns e singles lançados pela cantora ao longo de sua carreira, com detalhes sobre cada lançamento. 
+            <br>Na compra de cem (100) álbuns físicos, você concorre à uma chamada de vídeo ao vivo com a Flavinha! <br> Ao comprar mais de cento e cinquenta (150) álbuns físicos, você será classificado para uma conversa pessoalmente com a Flavinha. 
+            <br> Não perca essa chance! </p>
 
     </section>
 
     <section id="album">
 
         <h2>Álbum de Fotos</h2>
-        <p>Confira as fotos mais recentes das apresentações ao vivo, bastidores e momentos marcantes da carreira da cantora.</p>
+        <p>Confira as fotos mais recentes das apresentações ao vivo, bastidores e momentos marcantes da carreira da cantora. <br> Está seção está em manutenção no momento...</p>
 
     </section>
 
