@@ -30,6 +30,7 @@
             margin: 0 15px;
             text-decoration: none;
             font-weight: bold;
+            font-size: large;
             transition: color 0.3s ease; /*transição suave que muda a cor dos links*/
         }
 
@@ -50,11 +51,19 @@
 
         #homepage {
             background-image: url(flavinha2.png);
-            background-size: cover;
-            background-position: center;
-            color: #9CAFB7;
-            padding: 100px 20px;
+            background-blend-mode: multiply;
+            background-color: rgba(0, 0, 0, 0.5);
+            background-position: 100%;
+            background-size: 100%;
+            background-position: center center;
+            opacity: 0.5;
+            padding: 200px 20px;
+            margin: 25px;
             text-align: center;
+            text-transform: uppercase;
+            font-size: x-large;
+            font-weight: 900;
+            color: white;
         }
 
         /*boniteza das outras páginas*/
